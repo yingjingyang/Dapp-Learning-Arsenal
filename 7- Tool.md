@@ -16,3 +16,4 @@ Web2.0与Web3.0应用之别:  https://zhuanlan.zhihu.com/p/414635679?utm_source=
 - https://explorer.acinq.co/  
 - https://bitcoinvisuals.com/
 加密火币交易所排名：https://zhuanlan.zhihu.com/p/375004945
+自动给metamask导入网络:  https://chainlist.org/  
