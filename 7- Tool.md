@@ -17,3 +17,5 @@ Web2.0与Web3.0应用之别:  https://zhuanlan.zhihu.com/p/414635679?utm_source=
 - https://bitcoinvisuals.com/
 加密火币交易所排名：https://zhuanlan.zhihu.com/p/375004945
 自动给metamask导入网络:  https://chainlist.org/  
+可以看到公开大咖的地址：https://t.co/smjy822KMG
+可以观看钱包地址盈利能力与操作网站：https://t.co/jNb56w5xkt
