@@ -19,3 +19,4 @@ Web2.0与Web3.0应用之别:  https://zhuanlan.zhihu.com/p/414635679?utm_source=
 自动给metamask导入网络:  https://chainlist.org/  
 可以看到公开大咖的地址：https://t.co/smjy822KMG
 可以观看钱包地址盈利能力与操作网站：https://t.co/jNb56w5xkt
+Learn How to Build a Crypto Company为主题的系列课程: https://a16z.com/crypto-startup-school/  
